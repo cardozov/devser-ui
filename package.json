@@ -1,0 +1,25 @@
+{
+  "name": "devser-ui",
+  "version": "1.0.0",
+  "description": "Aplicação cliente React para o blog DevSer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viniciusgcardozo/devser-ui.git"
+  },
+  "keywords": [
+    "DevSer",
+    "blog",
+    "tecnologia",
+    "programação"
+  ],
+  "author": "Vinicius Goulart Cardozo <vinicius.gcardozo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/viniciusgcardozo/devser-ui/issues"
+  },
+  "homepage": "https://github.com/viniciusgcardozo/devser-ui#readme"
+}
